@@ -1,6 +1,6 @@
 # Install Instructions
 
-## AI Lesson 01: AI Agent
+## AI Lesson 02: AI Agent
 
 The following intructions are for MAC
 
@@ -33,7 +33,7 @@ Before starting, ensure you have the following installed on your system:
 4. Run Agent
 
    ```
-   python3 agent.py
+   python3 agent_multi_step.py
 
    ```
 ---
